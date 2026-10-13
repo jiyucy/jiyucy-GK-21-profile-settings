@@ -1,3 +1,9 @@
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/f44eb66e-e40e-4983-bd79-ec87ba02f6bd" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d934f074-d095-4872-9085-0671957217de" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/40c36a58-5c33-4398-8664-a3aa628e744f" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/271d9233-47f9-4e57-a746-ca812e460455" />
+
+
 These are the four layout arrangements I've created for the GK-21 leverless controller by GuileKeys, designed to get as close as possible to parity with a standard console controller for playing non-fighting games. Imagine using a controller that had been flattened out by a steamroller, it's kind of like that. The Switch Pro Controller is used as the example in the images, but note that the same logic also applies to PlayStation, Xbox (and PC) since their layouts are identical.
 
 —
